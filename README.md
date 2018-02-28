@@ -10,4 +10,5 @@ making a resource group, storage account, container, and cluster from scratch
 - The scripts can be run in Powershell or even Cloudshell, https://shell.azure.com, to create consistent clusters everytime. 
 
 If running the scripts from Cloudshell, they should be placed in the clouddrive file share.
+
 *The codes have notes written in Swedish.
